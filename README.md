@@ -66,7 +66,7 @@ Check out our comprehensive [tutorial](docs/tutorial.md) to get started!
    chmod +x bin/task-manager bin/task-manager-mcp bin/agentic-control-framework-mcp
    ```
 
-5. Create a `.env` file with your API key (optional, but required for AI features):
+5. Create a .env file with your API key (optional, but required for AI features):
    ```
    GEMINI_API_KEY=your_api_key_here
    ```
@@ -378,4 +378,3 @@ ISC
 ## Author
 
 Abhilash Chadhar
- 
